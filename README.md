@@ -2,7 +2,7 @@
 
 ![Xocopenzil - Interfaz Principal](Xocopenzil.jpg)
 
-[Xocopenzil aplicación ](https://xocostudio.github.io/Penzil-Pro-/)   
+[Xocopenzil aplicación ](https://xocostudio.github.io/Penzil-Pro-1/)   
 
 Penzil es una herramienta de dibujo 3D intuitiva y potente que te permite crear bocetos artísticos directamente sobre superficies tridimensionales. Diseñada para artistas, diseñadores y entusiastas del 3D, combina la libertad del dibujo a mano alzada con la precisión del espacio tridimensional.
 
